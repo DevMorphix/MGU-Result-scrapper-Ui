@@ -1,1 +1,0 @@
-# MGU-Result-scrapper-Ui
